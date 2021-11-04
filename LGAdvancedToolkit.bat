@@ -37,6 +37,7 @@ if /i "%choice%"=="11" goto CRIU
 if /i "%choice%"=="12" goto PREQ
 if /i "%choice%"=="13" goto FBD
 if /i "%choice%"=="14" goto CL
+if /i %choice%=="risk" goto BRICKMYPHONE
 ECHO.
 ECHO.
 ECHO. Invalid option. Please check again. Going back to Main Unlock Screen...
