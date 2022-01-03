@@ -1,2 +1,2 @@
-# LG-All-in-One-Toolkit
-lol yes
+# LG All in One Toolkit
+Working in progress. TBA Feb 2022.
